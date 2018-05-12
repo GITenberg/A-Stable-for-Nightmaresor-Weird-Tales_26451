@@ -1,0 +1,40 @@
+_repo: A-Stable-for-Nightmaresor-Weird-Tales_26451
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26451-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Young, Charles L. (Charles Lawrence), Sir
+    birthdate: 1839
+    deathdate: 1887
+    gutenberg_agent_id: '32022'
+    url: http://www.gutenberg.org/2009/agents/32022
+  - agent_name: Le Fanu, Joseph Sheridan
+    aliases:
+    - Fanu, J. Sheridan Le
+    - Fanu, Joseph Sheridan Le
+    - LeFanu, J. S. (Joseph Sheridan)
+    birthdate: 1814
+    deathdate: 1873
+    gutenberg_agent_id: '272'
+    url: http://www.gutenberg.org/2009/agents/272
+    wikipedia: http://en.wikipedia.org/wiki/Sheridan_Le_Fanu
+description: ''
+gutenberg_issued: '2008-08-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26451'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Fantasy fiction'
+tableOfContents: Dickon the devil -- A debt of honor -- Devereux's dream -- Catherine's
+  quest -- Haunted -- Pichon and sons, of the Croix Rousse -- The phantom fourth --
+  The spirit's whisper -- Dr. Feversham's story -- The secret of the two plaster casts
+  -- What was it?
+title: A Stable for Nightmares; or, Weird Tales
+url: http://www.gutenberg.org/ebooks/26451
